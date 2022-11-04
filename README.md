@@ -29,3 +29,4 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 
 ## data science stream
 
+Machine learning is fun (https://www.machinelearningisfun.com/)
