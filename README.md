@@ -7,9 +7,9 @@ Any questions or suggestions? please submit an issue via the menu !
 Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 
 # soda-it-modeling
-Faculty of Information and computer technologie - modeling stream:
-<img width="379" alt="image" src="https://user-images.githubusercontent.com/33482502/199950276-fe2ba3db-5cbd-4555-bd6f-54438eb30c52.png">
 
+<img width="379" alt="image" src="https://user-images.githubusercontent.com/33482502/199950276-fe2ba3db-5cbd-4555-bd6f-54438eb30c52.png">
+## Faculty of Information and computer technologie - modeling stream:
 ## online resources
 - Khan Academy (https://www.khanacademy.org/math)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
