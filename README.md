@@ -18,6 +18,7 @@ Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 - Khan Academy (https://www.khanacademy.org/math)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
 - Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
+- Databases conversion tool online (https://www.sqlines.com/online)
 
 ### frameworks we keep an eye on
 - observablehq (https://observablehq.com/)
