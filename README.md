@@ -5,10 +5,10 @@ SOhag-hollanDA is an ongoing exchange program between Sohag University (Egypt) a
 Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 
 # online resources
-Khan Academy (https://www.khanacademy.org/math)
-Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
-Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
+- Khan Academy (https://www.khanacademy.org/math)
+- Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
+- Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
 
 # frameworks we keep an eye on
-observablehq (https://observablehq.com/)
-Your AI code generator (https://github.com/features/copilot)
+- observablehq (https://observablehq.com/)
+- Your AI code generator (https://github.com/features/copilot)
