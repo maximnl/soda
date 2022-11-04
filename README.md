@@ -1,6 +1,8 @@
 # soda-ict-modeling
 SOhag-hollanDA is an ongoing exchange program between Sohag University (Egypt) and Universities from the Netherlands. This repository is dedicated to a modeling (design) stream. 
 
+any questions or suggestions? please fire an issue via the menu !
+
 # jobs, study abroad
 Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 
