@@ -14,6 +14,7 @@ Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 <img width="915" alt="image" src="https://user-images.githubusercontent.com/33482502/199950964-b189fc0b-845e-4d2a-990e-c90ed670d9e3.png">
 
 ## modeling stream
+Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BFA)
 ### online resources
 - Khan Academy (https://www.khanacademy.org/math)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
