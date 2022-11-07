@@ -19,6 +19,7 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 - Khan Academy (https://www.khanacademy.org/math)
 - Saylor Academy (https://learn.saylor.org/)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
+- Harvard CS50 – Full Computer Science University Course (https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)
 - Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
 
 ### frameworks we keep an eye on
@@ -29,6 +30,9 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 ### free tools
 - Databases conversion tool online (https://www.sqlines.com/online)
 - Github sites maker , a template for github hosted sites for free (https://docsify.js.org/#/)
+
+### inspirations
+How I Built A $6.5 Billion App Called Duolingo | Founder Effect (https://www.youtube.com/watch?v=ri-tzZcGYk0&ab_channel=CNBCMakeIt)
 
 ## data science stream
 
