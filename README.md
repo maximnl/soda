@@ -20,6 +20,7 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 - Saylor Academy (https://learn.saylor.org/)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
 - Harvard CS50 – Full Computer Science University Course (https://www.youtube.com/watch?v=8mAITcNt710&ab_channel=freeCodeCamp.org)
+- freeCodeCamp.org (https://www.youtube.com/c/Freecodecamp)
 - Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
 
 ### frameworks we keep an eye on
