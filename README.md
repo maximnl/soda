@@ -22,6 +22,7 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 - Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
 
 ### frameworks we keep an eye on
+- AI models market (https://www.gravity-ai.com/)
 - observablehq (https://observablehq.com/)
 - Your AI code generator (https://github.com/features/copilot)
 
