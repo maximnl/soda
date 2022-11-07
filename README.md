@@ -32,6 +32,9 @@ Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BF
 - Databases conversion tool online (https://www.sqlines.com/online)
 - Github sites maker , a template for github hosted sites for free (https://docsify.js.org/#/)
 
+### earn with IT
+- BUILD and SELL your own A.I Model!  (https://www.gravity-ai.com) (https://www.youtube.com/watch?v=i6qL3NqFjs4&ab_channel=CodewithAniaKub%C3%B3w)
+
 ### inspirations
 How I Built A $6.5 Billion App Called Duolingo | Founder Effect (https://www.youtube.com/watch?v=ri-tzZcGYk0&ab_channel=CNBCMakeIt)
 
