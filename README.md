@@ -17,15 +17,17 @@ Universities in the Netherlands (https://www.4tu.nl/sai/education/vacancies/)
 Our slack messaging channel (https://sohagexchange.slack.com/archives/C04A3B52BFA)
 ### online resources
 - Khan Academy (https://www.khanacademy.org/math)
+- Saylor Academy (https://learn.saylor.org/)
 - Bitcoin MIT course by Gary Gensler, currently the head of SEC (https://www.youtube.com/watch?v=EH6vE97qIP4&ab_channel=MITOpenCourseWare)
 - Introduction to modeling by Cees van Overveld at Technical University of Eindhoven (http://www.keesvanoverveld.com/modeling/modelingStartsHereMarieCurie.htm)
-- Databases conversion tool online (https://www.sqlines.com/online)
-- Github sites maker , a template for github hosted sites for free (https://docsify.js.org/#/)
-
 
 ### frameworks we keep an eye on
 - observablehq (https://observablehq.com/)
 - Your AI code generator (https://github.com/features/copilot)
+
+### free tools
+- Databases conversion tool online (https://www.sqlines.com/online)
+- Github sites maker , a template for github hosted sites for free (https://docsify.js.org/#/)
 
 ## data science stream
 
